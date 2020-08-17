@@ -1,15 +1,15 @@
 {
   "name": "course-attendance-system",
   "version": "1.0.0",
-  "description": "Based on a tutorial by Traversy Media",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Joakim Tveter",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
